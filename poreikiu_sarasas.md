@@ -39,7 +39,7 @@ Tuo būdu:
 Nustatyti, kad "instaliuota galia" laikima mažesnė iš šių dviejų komponentų galia: a) saulės elementų suminė galia, b) inverterio galia.
 
 ## STATUSAS
-Reikia pasitvirtinti ar tai tikrai problema, kurąi reikia spręsti.
+Reikia pasitvirtinti ar tai tikrai problema, kurią reikia spręsti.
 
 
 
